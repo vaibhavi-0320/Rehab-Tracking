@@ -4,7 +4,7 @@ A decentralized solution for monitoring and tracking physical therapy and rehabi
 
 ## 🏥 Overview
 
-This Move smart contract enables healthcare providers and patients to securely track rehabilitation progress in a transparent, immutable manner. Built for telemedicine applications, it provides essential functions for creating patient profiles and updating therapy progress.
+This Move smart contract enables healthcare providers and patients to securely track rehabilitation progress in a transparent, immutable manner. Designed for telemedicine applications, it offers essential functions for creating patient profiles and tracking therapy progress.
 
 ## ✨ Features
 
@@ -86,6 +86,12 @@ update_progress(&therapist_signer, patient_address, 2);
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
+
+Contract Address
+
+Testnet Deployment
+Transaction Address:0xd76c9e800c188c4f129f76cf97d150744e37e6e9c65c5f46b4a1114e619fedae
+Network: Aptos Testnet
 
 
 ---
