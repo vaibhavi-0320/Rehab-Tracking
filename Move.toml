@@ -1,0 +1,16 @@
+[package]
+name = "RehabTracking"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule="e6390aab6c86f5adc2cdf61870b1493f51595e57b5590c62c02dc08b203d4a63" 
+SendMessage="e6390aab6c86f5adc2cdf61870b1493f51595e57b5590c62c02dc08b203d4a63"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
